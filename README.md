@@ -9,3 +9,8 @@ Mini-CMS Application in PHP
 - Automatic navigation builder
 - Logging function
 - Ultra small and fast
+
+Demo
+====
+
+- <http://demo.phaziz.com/mini-cms/>
