@@ -184,4 +184,4 @@
 	}
 
 	$APP = new \App\MrRender();
-	echo $NAVIGATION_UL = $APP -> renderTPL($ROUTES_ARRAY);
+	echo $APP -> renderTPL($ROUTES_ARRAY);
