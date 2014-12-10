@@ -1,16 +1,18 @@
-mini-cms
-========
+MiniCMS Mr. Render
+==================
 
 Mini-CMS Application in PHP
-
 - PHP 5.6 ready
-- Static page-router
+- Static Page rendering - no need for a database
 - Clean url's
 - Automatic navigation builder
-- Logging function
 - Ultra small and fast
 
 Demo
 ====
+- <http://demo.phaziz.com/mini-cms-3/>
 
-- <http://demo.phaziz.com/mini-cms/>
+Visit
+====
+- <http://phaziz.com>
+- <http://blog.phaziz.com>

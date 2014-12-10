@@ -1,7 +1,0 @@
-php_value session.use_trans_sid 0
-
-<ifModule mod_rewrite.c>
-	RewriteEngine On
-	RewriteCond %{REQUEST_FILENAME} !-f
-	RewriteRule .* ./index.php
-</ifModule>
