@@ -6,7 +6,6 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>{@ printPageName @}</title>
 		<link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
-		<link href="cover.css" rel="stylesheet">
 		<style>
 			.container{max-width:1200px;margin:25px auto;}
 			*{-webkit-border-radius: 0px !important;-moz-border-radius: 0px !important;border-radius: 0px !important;	}
