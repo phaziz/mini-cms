@@ -39,11 +39,6 @@ Changelog
 =========
 - Caching hinzugefügt
 
-Visit
-====
-- <http://phaziz.com>
-- <http://blog.phaziz.com>
-
 MiniCMS Mr. Render V3
 =====================
 
