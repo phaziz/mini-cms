@@ -19,16 +19,6 @@ Changelog
 - routes.php - Routing ausgelagert
 - Template mit Inhalten aufgeblasen
 
-Demo
-====
-- <http://demo.phaziz.com/mini-cms-4/>
-
-Visit
-====
-- <http://phaziz.com>
-- <http://blog.phaziz.com>
-
-
 
 MiniCMS Mr. Render V4
 =====================
@@ -49,16 +39,10 @@ Changelog
 =========
 - Caching hinzugefügt
 
-Demo
-====
-- <http://demo.phaziz.com/mini-cms-4/>
-
 Visit
 ====
 - <http://phaziz.com>
 - <http://blog.phaziz.com>
-
-
 
 MiniCMS Mr. Render V3
 =====================
@@ -69,12 +53,3 @@ Mini-CMS Application in PHP
 - Clean url's
 - Automatic navigation builder
 - Ultra small and fast
-
-Demo
-====
-- <http://demo.phaziz.com/mini-cms-3/>
-
-Visit
-====
-- <http://phaziz.com>
-- <http://blog.phaziz.com>
